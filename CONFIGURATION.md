@@ -74,7 +74,6 @@
 2. Añade un nuevo grupo como rol (ej. ‘editor’, ‘visualizador’).
 
    ![Crear rol/grupo](configuraciones/17_crear_nombre_de_rol_grupo.png)
-   ![Grupo creado](configuraciones/18.5_grupo_rol_creado_correctamente 2 (captura de los grupos).png)
 
 3. Asigna roles a los usuarios.
 
@@ -96,7 +95,6 @@
 
    ![Opciones permisos](configuraciones/24_abrir_opciones_permisos.png)
    ![Configurar permisos por rol](configuraciones/25_configurar_permisos_por_rol.png)
-   ![Ejemplo editor](configuraciones/25.5_configurar_permisos_por_rol (Otro ejemplo, el de editor).png)
 
 ---
 
