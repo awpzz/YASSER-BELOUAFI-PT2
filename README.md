@@ -12,9 +12,9 @@ Este repositorio documenta la práctica de instalación y configuración de ownC
 
 El objetivo de esta práctica es:
 1. Configurar un entorno de virtualización (IsardVDI) para alojar ownCloud.
-2. Instalar y poner en marcha ownCloud (Apache, PHP, MySQL/MariaDB).
+2. Instalar y poner en marcha ownCloud (Apache, PHP, MySQL).
 3. Crear usuarios con distintos roles (administrador, editor, visualizador) y asignar permisos.
-4. Probar funcionalidades básicas: subida de archivos, creación de carpetas y compartición.
+4. Probar funcionalidades básicas: subida de archivos, creación de carpetas, organización y compartición.
 
 Para seguir el desarrollo paso a paso, consulta los manuales:
 
