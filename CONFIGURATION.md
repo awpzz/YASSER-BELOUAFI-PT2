@@ -149,7 +149,9 @@
 
 3. Edita `config.php` y añade la IP en `trusted_domains`:
 
-4. Accede desde otro equipo a `https://<IP_LOCAL>`.
+   ![Trusted Domains](configuraciones/2_config_trusted_domains_actualizado.png)
+
+5. Accede desde otro equipo a `https://<IP_LOCAL>`.
 
 ---
 
