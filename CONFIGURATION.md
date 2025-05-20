@@ -19,8 +19,9 @@
 2. Selecciona “Upload” y elige el archivo desde tu equipo.
 
    ![Opción de subida](configuraciones/2_opcion_subida_archivos.png)
+   ![Archivo](configuraciones/3_seleccionar_archivo_para_subir.png)
 
-3. Verifica que el fichero aparece en la lista.
+4. Verifica que el fichero aparece en la lista.
 
    ![Archivo subido correctamente](configuraciones/4_archivo_subido_correctamente.png)
 
