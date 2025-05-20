@@ -1,5 +1,15 @@
 # CONFIGURATION.md
 
+## Inicio
+
+1. Crear cuenta en OwnCloud
+
+   ![Crear cuenta](configuraciones/creamos_cuenta_primerisima_captura.png)
+
+3. Inicia sesion
+
+   ![Iniciar sesion](configuraciones/iniciamos_sesion_segunda_captura.png)
+
 ## 1. Subida de archivos
 
 1. Haz clic en el icono “+” para desplegar opciones de subida.
